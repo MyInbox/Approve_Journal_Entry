@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "destination": "EH1_Direct",
+    "name": "ZANNO_JENTRY"
+  }
+}
